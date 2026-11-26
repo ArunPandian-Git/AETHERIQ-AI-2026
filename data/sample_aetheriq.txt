@@ -1,0 +1,11 @@
+﻿AETHERIQ AI - ENTERPRISE DOCUMENT INTELLIGENCE
+AETHERIQ AI is an advanced artificial intelligence platform.
+Major capabilities:
+1. Intelligent AI conversations.
+2. Document intelligence.
+3. Retrieval Augmented Generation.
+4. Data analysis.
+5. Programming assistance.
+Document Intelligence allows users to upload PDF, DOCX, PPTX, XLSX, CSV and TXT files.
+The document processing engine extracts text, divides documents into smaller chunks and prepares them for semantic search.
+Retrieval Augmented Generation retrieves relevant document information and provides context-aware answers using an AI language model.
